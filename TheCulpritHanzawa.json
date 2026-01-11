@@ -29,12 +29,52 @@
         "Criminal Scans": "/proxy/api/imgchest/chapter/9p4nzpjl54n"
       }
     },
+    "4": {
+      "title": "4",
+      "volume": "1",
+      "last_updated": "1768156645",
+      "groups": {
+        "Criminal Scans": "/proxy/api/imgchest/chapter/9p4nzpjx54n"
+      }
+    },
+    "5": {
+      "title": "5",
+      "volume": "1",
+      "last_updated": "1768156722",
+      "groups": {
+        "Morgan": "/proxy/api/imgchest/chapter/6eyrnqmx67p"
+      }
+    },
+    "6": {
+      "title": "6",
+      "volume": "1",
+      "last_updated": "1768156847",
+      "groups": {
+        "Morgan": "/proxy/api/imgchest/chapter/xny86g5qd4b"
+      }
+    },
+    "7": {
+      "title": "7",
+      "volume": "2",
+      "last_updated": "1768156913",
+      "groups": {
+        "Morgan": "/proxy/api/imgchest/chapter/na7kk9vom78"
+      }
+    },
     "56": {
       "title": "The Culprit Forsaken by God",
       "volume": "",
       "last_updated": "1768153742",
       "groups": {
         "Morgan": "/proxy/api/imgchest/chapter/m9yxneraq7q"
+      }
+    },
+    "6.5": {
+      "title": "6.5",
+      "volume": "1",
+      "last_updated": "1768156784",
+      "groups": {
+        "Morgan": "/proxy/api/imgchest/chapter/xny86g5qd4b"
       }
     }
   }
