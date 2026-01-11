@@ -30,35 +30,75 @@
       }
     },
     "4": {
-      "title": "4",
+      "title": "Inescapable Hell",
       "volume": "1",
-      "last_updated": "1768156645",
+      "last_updated": "1546281445",
       "groups": {
         "Criminal Scans": "/proxy/api/imgchest/chapter/9p4nzpjx54n"
       }
     },
     "5": {
-      "title": "5",
+      "title": "The Jet-Black Shower Scene",
       "volume": "1",
-      "last_updated": "1768156722",
+      "last_updated": "1547577522",
       "groups": {
-        "Morgan": "/proxy/api/imgchest/chapter/6eyrnqmx67p"
+        "Criminal Scans": "/proxy/api/imgchest/chapter/6eyrnqmx67p"
       }
     },
     "6": {
-      "title": "6",
+      "title": "Nightmare",
       "volume": "1",
-      "last_updated": "1768156847",
+      "last_updated": "1770230447",
       "groups": {
-        "Morgan": "/proxy/api/imgchest/chapter/xny86g5qd4b"
+        "Criminal Scans": "/proxy/api/imgchest/chapter/xny86g5qd4b"
       }
     },
     "7": {
-      "title": "7",
+      "title": "Countdown to Heaven",
       "volume": "2",
-      "last_updated": "1768156913",
+      "last_updated": "1552243313",
       "groups": {
-        "Morgan": "/proxy/api/imgchest/chapter/na7kk9vom78"
+        "Criminal Scans": "/proxy/api/imgchest/chapter/na7kk9vom78"
+      }
+    },
+    "8": {
+      "title": "The Part-Time Workers’ Requiem",
+      "volume": "2",
+      "last_updated": "1554054284",
+      "groups": {
+        "Criminal Scans": "/proxy/api/imgchest/chapter/pg73om5g37r"
+      }
+    },
+    "9": {
+      "title": "Dress Up Tonight",
+      "volume": "2",
+      "last_updated": "1777743950",
+      "groups": {
+        "Criminal Scans": "/proxy/api/imgchest/chapter/xny86g5vd4b"
+      }
+    },
+    "10": {
+      "title": "Dimensional Visitor",
+      "volume": "2",
+      "last_updated": "1781891214",
+      "groups": {
+        "Criminal Scans": "/proxy/api/imgchest/chapter/ne7b6ekkvy5"
+      }
+    },
+    "11": {
+      "title": "The Brink of Death",
+      "volume": "2",
+      "last_updated": "1572634161",
+      "groups": {
+        "Criminal Scans": "/proxy/api/imgchest/chapter/vj4jmxgge48"
+      }
+    },
+    "12": {
+      "title": "The First Target",
+      "volume": "2",
+      "last_updated": "1585248628",
+      "groups": {
+        "Criminal Scans": "/proxy/api/imgchest/chapter/vj4jmxg8548"
       }
     },
     "56": {
@@ -70,11 +110,19 @@
       }
     },
     "6.5": {
-      "title": "6.5",
+      "title": "The Truth Behind the Mystery Meat",
       "volume": "1",
-      "last_updated": "1768156784",
+      "last_updated": "1550515184",
       "groups": {
-        "Morgan": "/proxy/api/imgchest/chapter/xny86g5qd4b"
+        "Criminal Scans": "/proxy/api/imgchest/chapter/xny86g5qd4b"
+      }
+    },
+    "12.5": {
+      "title": "Hanzawa’s Economising Struggles",
+      "volume": "2",
+      "last_updated": "1611687063",
+      "groups": {
+        "Golden Apple Scans": "/proxy/api/imgchest/chapter/lqyel8gmx4d"
       }
     }
   }
