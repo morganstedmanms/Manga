@@ -101,6 +101,78 @@
         "Criminal Scans": "/proxy/api/imgchest/chapter/vj4jmxg8548"
       }
     },
+    "13": {
+      "title": "13",
+      "volume": "3",
+      "last_updated": "1768203926",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9ryd2gokw4k"
+      }
+    },
+    "14": {
+      "title": "14",
+      "volume": "3",
+      "last_updated": "1768203946",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ej7mebrgbyd"
+      }
+    },
+    "15": {
+      "title": "15",
+      "volume": "3",
+      "last_updated": "1768203960",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/qb4zpgb63yj"
+      }
+    },
+    "16": {
+      "title": "16",
+      "volume": "2",
+      "last_updated": "1768203981",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/qe4gqa3vr7j"
+      }
+    },
+    "17": {
+      "title": "17",
+      "volume": "3",
+      "last_updated": "1768203995",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/o24a6wlx3yl"
+      }
+    },
+    "18": {
+      "title": "18",
+      "volume": "3",
+      "last_updated": "1768204015",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9249k8ex2yn"
+      }
+    },
+    "19": {
+      "title": "19",
+      "volume": "4",
+      "last_updated": "1768204062",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/5xy2orjzj4l"
+      }
+    },
+    "20": {
+      "title": "20",
+      "volume": "4",
+      "last_updated": "1768204079",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ljyqkjbgny2"
+      }
+    },
+    "30": {
+      "title": "30",
+      "volume": "5",
+      "last_updated": "1768204091",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/n87wnkb6g7x"
+      }
+    },
     "54": {
       "title": "The Most Peaceful Day in Beika Town",
       "volume": "10",
@@ -139,6 +211,14 @@
       "last_updated": "1611687063",
       "groups": {
         "Golden Apple Scans": "/proxy/api/imgchest/chapter/lqyel8gmx4d"
+      }
+    },
+    "18.5": {
+      "title": "18.5",
+      "volume": "3",
+      "last_updated": "1768204027",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/md7ob2kzd4p"
       }
     }
   }
