@@ -102,35 +102,35 @@
       }
     },
     "13": {
-      "title": "13",
+      "title": "Discovery",
       "volume": "3",
-      "last_updated": "1768203926",
+      "last_updated": "1587797126",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9ryd2gokw4k"
+        "Criminal Scans": "/proxy/api/imgchest/chapter/9ryd2gokw4k"
       }
     },
     "14": {
-      "title": "14",
+      "title": "Next Conan's Hint: Hairball",
       "volume": "3",
-      "last_updated": "1768203946",
+      "last_updated": "1603871146",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ej7mebrgbyd"
+        "Criminal Scans": "/proxy/api/imgchest/chapter/ej7mebrgbyd"
       }
     },
     "15": {
-      "title": "15",
+      "title": "A Shuddering Prodigy from a distant, Inter-dimensional Sea",
       "volume": "3",
-      "last_updated": "1768203960",
+      "last_updated": "1611560760",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qb4zpgb63yj"
+        "Golden Apple Scans": "/proxy/api/imgchest/chapter/qb4zpgb63yj"
       }
     },
     "16": {
-      "title": "16",
+      "title": "A Career Change Is Thrill, Shock, Suspense!",
       "volume": "2",
-      "last_updated": "1768203981",
+      "last_updated": "1582271181",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qe4gqa3vr7j"
+        "Golden Apple Scans": "/proxy/api/imgchest/chapter/qe4gqa3vr7j"
       }
     },
     "17": {
@@ -181,6 +181,30 @@
         "": "/proxy/api/imgchest/chapter/n87wnkb6g7x"
       }
     },
+    "40": {
+      "title": "40",
+      "volume": "7",
+      "last_updated": "1768206315",
+      "groups": {
+        "Morgan": "/proxy/api/imgchest/chapter/5xy2orjbz4l"
+      }
+    },
+    "43": {
+      "title": "43",
+      "volume": "8",
+      "last_updated": "1768206335",
+      "groups": {
+        "Morgan": "/proxy/api/imgchest/chapter/vj4jmxzq348"
+      }
+    },
+    "44": {
+      "title": "44",
+      "volume": "8",
+      "last_updated": "1768206348",
+      "groups": {
+        "Morgan": "/proxy/api/imgchest/chapter/qb4zpgbw5yj"
+      }
+    },
     "54": {
       "title": "The Most Peaceful Day in Beika Town",
       "volume": "10",
@@ -227,6 +251,14 @@
       "last_updated": "1768204027",
       "groups": {
         "": "/proxy/api/imgchest/chapter/md7ob2kzd4p"
+      }
+    },
+    "50.5": {
+      "title": "50.5",
+      "volume": "9",
+      "last_updated": "1768206368",
+      "groups": {
+        "Morgan": "/proxy/api/imgchest/chapter/qe4gqa32q7j"
       }
     }
   }
