@@ -166,11 +166,19 @@
       }
     },
     "21": {
-      "title": "[AI-scans] Let’s Pay Off Our Debt!",
+      "title": "Let’s Pay Off Our Debt!",
       "volume": "4",
       "last_updated": "1768208511",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/vj4jmxzn948"
+        "Machine Translation": "/proxy/api/imgchest/chapter/vj4jmxzn948"
+      }
+    },
+    "22": {
+      "title": "I Have Money!",
+      "volume": "4",
+      "last_updated": "1768209313",
+      "groups": {
+        "Machine Translation": "/proxy/api/imgchest/chapter/lqyel8rwk4d"
       }
     },
     "26": {
