@@ -18,6 +18,22 @@
     "updates": "https://morganstedmanms.blogspot.com/search/label/Baki%20Hanma%3A%20Son%20of%20Ogre"
   },
   {
+    "title": "Baki-Dou",
+    "series": "Baki",
+    "year": 2024,
+    "status": "Completed",
+    "image": "https://cdn.imgchest.com/files/39ba6a1d5a77.jpg",
+    "url": "https://morganstedmanms.blogspot.com/search/label/Baki-Dou",
+  },
+  {
+    "title": "Bakidou",
+    "series": "Baki",
+    "year": 2025,
+    "status": "Completed",
+    "image": "https://cdn.imgchest.com/files/996be7c7477c.jpg",
+    "url": "https://morganstedmanms.blogspot.com/search/label/Bakidou",
+  },
+  {
     "title": "Baki Rahen",
     "series": "Baki",
     "year": 2023,
@@ -33,5 +49,13 @@
     "status": "Completed",
     "image": "https://cdn.imgchest.com/files/21f76c28683c.jpg",
     "url": "https://morganstedmanms.blogspot.com/search/label/Deadman%27s%20Questions"
+  }
+  {
+    "title": "Nighthawk Returns",
+    "series": "Other",
+    "year": 2020,
+    "status": "Completed",
+    "image": "https://cdn.imgchest.com/files/e70e716f55d6.jpg",
+    "url": "https://morganstedmanms.blogspot.com/search/label/Nighthawk%20Returns"
   }
 ]
