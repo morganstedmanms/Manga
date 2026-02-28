@@ -1,4 +1,103 @@
 [
+//-------------------- JOJO --------------------
+  {
+    "title": "The JOJOLands",
+    "series": "JoJo",
+    "year": 2023,
+    "status": "Ongoing",
+    "image": "https://cdn.imgchest.com/files/b3849a6e39df.png",
+    "url": "https://hiwamatanoboru.com/category/the-jojolands/"
+  },
+  {
+    "title": "Deadman's Questions",
+    "series": "JoJo",
+    "year": 2020,
+    "status": "Completed",
+    "image": "https://cdn.imgchest.com/files/312105a60fcb.png",
+    "url": "https://morganstedmanms.blogspot.com/search/label/Deadman%27s%20Questions"
+  },
+  {
+    "title": "Gorgeous Irene",
+    "series": "JoJo",
+    "year": 2023,
+    "status": "Completed",
+    "image": "https://cdn.imgchest.com/files/7c3b63766a9e.png",
+    "url": "https://morganstedmanms.blogspot.com/search/label/Gorgeous%20Irene"
+  },
+  {
+    "title": "Baoh the Visitor",
+    "series": "JoJo",
+    "year": 2020,
+    "status": "Completed",
+    "image": "https://cdn.imgchest.com/files/ff9386026881.png",
+    "url": "https://morganstedmanms.blogspot.com/search/label/Baoh%20the%20Visitor"
+  },
+  {
+    "title": "Thus Spoke Kishibe Rohan",
+    "series": "JoJo",
+    "year": 2020,
+    "status": "Completed",
+    "image": "https://cdn.imgchest.com/files/2239e891ce05.png",
+    "url": "https://morganstedmanms.blogspot.com/search/label/Thus%20Spoke%20Kishibe%20Rohan"
+  },
+  {
+    "title": "Fujiko's Bizarre Worldly Wisdom",
+    "series": "JoJo",
+    "year": 2021,
+    "status": "Completed",
+    "image": "https://cdn.imgchest.com/files/d75b3f091110.png",
+    "url": "https://morganstedmanms.blogspot.com/2021/12/fujikos-bizarre-worldly-wisdom.html"
+  },
+  {
+    "title": "Toshikazu Hazamada's Questionable Adventure",
+    "series": "JoJo",
+    "year": 2024,
+    "status": "Completed",
+    "image": "https://cdn.imgchest.com/files/312049be47c1.png",
+    "url": "https://morganstedmanms.blogspot.com/2024/12/toshikazu-hazamadas-questionable.html"
+  },
+  {
+    "title": "Echoes ACT50",
+    "series": "JoJo",
+    "year": 2025,
+    "status": "Completed",
+    "image": "https://cdn.imgchest.com/files/4498f87473fe.png",
+    "url": "https://morganstedmanms.blogspot.com/2025/05/echoes-act50.html"
+  },
+  {
+    "title": "Crazy Diamond's Demonic Heartbreak",
+    "series": "JoJo",
+    "year": 2021,
+    "status": "Completed",
+    "image": "https://cdn.imgchest.com/files/1b3e96edc751.png",
+    "url": "https://morganstedmanms.blogspot.com/search/label/Crazy%20Diamond%27s%20Demonic%20Heartbreak"
+  },
+  {
+    "title": "Cool Shock B.T.<br/>(Spin Off)",
+    "series": "JoJo",
+    "year": 2021,
+    "status": "Completed",
+    "image": "https://cdn.imgchest.com/files/4e8f56a43cb4.png",
+    "url": "https://morganstedmanms.blogspot.com/search/label/Cool%20Shock%20B.T."
+  },
+  {
+    "title": "Cool Shock B.T.<br/>(Reboot)",
+    "series": "JoJo",
+    "year": 2024,
+    "status": "Completed",
+    "image": "https://cdn.imgchest.com/files/d90d1ebdfb51.png",
+    "url": "https://morganstedmanms.blogspot.com/2024/04/cool-shock-bt-reboot.html"
+  },
+  {
+    "title": "A Boy Called Pink Dark",
+    "series": "JoJo",
+    "year": 2025,
+    "status": "Completed",
+    "image": "https://cdn.imgchest.com/files/138125c51b29.png",
+    "url": "https://morganstedmanms.blogspot.com/2025/06/a-boy-called-pink-dark.html"
+  },
+  
+//-------------------- BAKI --------------------
   {
     "title": "Baki the Grappler",
     "series": "Baki",
@@ -22,7 +121,7 @@
     "series": "Baki",
     "year": 2024,
     "status": "Completed",
-    "image": "https://cdn.imgchest.com/files/39ba6a1d5a77.jpg",
+    "image": "https://cdn.imgchest.com/files/1d6ff21f3bd7.png",
     "url": "https://morganstedmanms.blogspot.com/search/label/Baki-Dou"
   },
   {
@@ -30,7 +129,7 @@
     "series": "Baki",
     "year": 2025,
     "status": "Completed",
-    "image": "https://cdn.imgchest.com/files/996be7c7477c.jpg",
+    "image": "https://cdn.imgchest.com/files/f5a50ee54c90.png",
     "url": "https://morganstedmanms.blogspot.com/search/label/Bakidou"
   },
   {
@@ -41,22 +140,10 @@
     "image": "https://cdn.imgchest.com/files/6e6a8cf4553c.jpg",
     "url": "https://morganstedmanms.blogspot.com/search/label/Baki%20Rahen"
   },
-  {
-    "title": "The JOJOLands",
-    "series": "JoJo",
-    "year": 2023,
-    "status": "Ongoing",
-    "image": "https://cdn.imgchest.com/files/b3849a6e39df.png",
-    "url": "https://hiwamatanoboru.com/category/the-jojolands/"
-  },
-  {
-    "title": "Deadman's Questions",
-    "series": "JoJo",
-    "year": 2020,
-    "status": "Completed",
-    "image": "https://cdn.imgchest.com/files/21f76c28683c.jpg",
-    "url": "https://morganstedmanms.blogspot.com/search/label/Deadman%27s%20Questions"
-  },
+//-------------------- CONAN --------------------
+
+
+
   {
     "title": "Hen: Suzuki & Sato",
     "series": "Gantz",
@@ -76,7 +163,7 @@
   {
     "title": "Nighthawk Returns",
     "series": "Other",
-    "year": 2020,
+    "year": 2025,
     "status": "Ongoing",
     "image": "https://cdn.imgchest.com/files/e70e716f55d6.jpg",
     "url": "https://morganstedmanms.blogspot.com/search/label/Nighthawk%20Returns"
