@@ -226,7 +226,7 @@
       "volume": "10",
       "last_updated": "1761242832",
       "groups": {
-        "Morgan": "/proxy/api/mangadex/chapter/02577e66-00a8-48fe-a11a-f86b267bc89f"
+        "Morgan": "/proxy/api/imgchest/chapter/agyvgxndzy8"
       }
     },
     "55": {
@@ -234,7 +234,7 @@
       "volume": "10",
       "last_updated": "1764011135",
       "groups": {
-        "Morgan": "/proxy/api/mangadex/chapter/cbe7c9ba-cced-48e9-bd09-388f36a123ca"
+        "Morgan": "/proxy/api/imgchest/chapter/agyvgxn6zy8"
       }
     },
     "56": {
@@ -242,7 +242,31 @@
       "volume": "10",
       "last_updated": "1767116942",
       "groups": {
-        "Morgan": "/proxy/api/imgchest/chapter/m9yxneraq7q"
+        "Morgan": "/proxy/api/imgchest/chapter/lqyewdlvxyd"
+      }
+    },
+    "57": {
+      "title": "Wild Love Story",
+      "volume": "10",
+      "last_updated": "1772322313",
+      "groups": {
+        "Morgan": "/proxy/api/imgchest/chapter/qe4gzmqro7j"
+      }
+    },
+    "58": {
+      "title": " The Miracle of Yoshiwara Apartments",
+      "volume": "10",
+      "last_updated": "1775429267",
+      "groups": {
+        "Morgan": "/proxy/api/imgchest/chapter/9ryd3q2ad7k"
+      }
+    },
+    "59": {
+      "title": " The ABCs of Romance",
+      "volume": "10",
+      "last_updated": "1775602302",
+      "groups": {
+        "Morgan": "/proxy/api/imgchest/chapter/vj4j5emq578"
       }
     },
     "6.5": {
@@ -275,6 +299,14 @@
       "last_updated": "1742977568",
       "groups": {
         "Morgan": "/proxy/api/imgchest/chapter/qe4gqa32q7j"
+      }
+    },
+    "59.5": {
+      "title": "59.5",
+      "volume": "10",
+      "last_updated": "1775775217",
+      "groups": {
+        "Morgan": "/proxy/api/imgchest/chapter/bp45jmo3xy5"
       }
     }
   }
